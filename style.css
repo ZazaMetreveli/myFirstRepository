@@ -4,3 +4,7 @@
     box-sizing: border-box;
 }
 
+p {
+    color: Red;
+    font-size: 22px;
+}
