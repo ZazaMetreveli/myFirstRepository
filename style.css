@@ -8,3 +8,7 @@ p {
     color: Red;
     font-size: 22px;
 }
+
+ul {
+    display: flex;
+}
